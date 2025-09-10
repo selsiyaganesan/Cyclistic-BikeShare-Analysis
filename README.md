@@ -13,13 +13,28 @@ The analysis explores the differences in riding patterns between **casual riders
 ```
 Cyclistic-BikeShare-Analysis/
 │
+├── data/
+│   ├── Jan_2024_tripdata.xlsx
+│   ├── Feb_2024_tripdata.xlsx
+│   ├── Mar_2024_tripdata.xlsx
+│   ├── Apr_2024_tripdata.xlsx
+│   ├── May_2024_tripdata.xlsx
+│   ├── Jun_2024_tripdata.xlsx
+│   ├── Jul_2024_tripdata.xlsx
+│   ├── Aug_2024_tripdata.xlsx
+│   ├── Sep_2024_tripdata.xlsx
+│   ├── Oct_2024_tripdata.xlsx
+│   ├── Nov_2024_tripdata.xlsx
+│   └── Dec_2024_tripdata.xlsx
+│
 ├── dashboard/
-│   └── google_data_analyst_rider_dashboard.png   # Power BI Dashboard screenshot
+│   └── google_data_analyst_rider_dashboard.png
 │
 ├── presentation/
-│   └── How_does_a_BikeShare_navigate_speedy_Success.pptx  # Final PPT
+│   └── How_does_a_BikeShare_navigate_speedy_Success.pptx
 │
-├── README.md   # Project documentation (this file)
+├── README.md
+
 ```
 **Business Challenge:**  
 Membership riders generate more **stable recurring revenue** than casual riders. Although memberships are greater, casuals still make up a significant share.  
